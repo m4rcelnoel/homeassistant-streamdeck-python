@@ -1,0 +1,77 @@
+[
+    {
+        "name" : "kitchen",
+        "image": "kitchen_lamp.png",
+        "label": "Küche"
+    },
+    {
+        "name" : "livingroom",
+        "image": "livingroom.png",
+        "label": "Wohnzimmer"
+    },
+    {
+        "name" : "dinnertable",
+        "image": "dinnertable_lamp.png",
+        "label": "Esstisch"
+    },
+    {
+        "name" : "louder",
+        "image": "volume_up.png",
+        "label": "Lauter"
+    },
+    {
+        "name" : "music",
+        "image": "music_play_pause.png",
+        "label": "Musik Play/Pause"
+    },
+    {
+        "name" : "bright",
+        "image": "mode_bright.png",
+        "label": "Modus Hell"
+    },
+    {
+        "name" : "chilltime",
+        "image": "mode_couch.png",
+        "label": "Modus Sofa"
+    },
+    {
+        "name" : "worktime",
+        "image": "mode_work.png",
+        "label": "Modus Work"
+    },
+    {
+        "name" : "quiter",
+        "image": "volume_down.png",
+        "label": "Leiser"
+    },
+    {
+        "name" : "nextsong",
+        "image": "next_song.png",
+        "label": "Nächster Song"
+    },
+    {
+        "name" : "bathroomheater",
+        "image": "heater.png",
+        "label": "Bad Heizung"
+    },
+    {
+        "name" : "livingheater",
+        "image": "heater.png",
+        "label": "Wohnzimmer Heizung"
+    },
+    {
+        "name" : "sleepheater",
+        "image": "heater.png",
+        "label": "Schlafzimmer Heizung"
+    },
+    {
+        "name" : "allheater",
+        "image": "all_heater.png",
+        "label": "Alle Heizungen"
+    },
+    {
+        "name" : "lastsong",
+        "image": "previous_song.png",
+        "label": "Vorheriger Song"
+    }
+]
