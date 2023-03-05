@@ -120,7 +120,7 @@ def openJSON():
 
 if __name__ == "__main__":
     client = mqtt.Client()
-    client.username_pw_set(username='blubfix',password='hoguki2323')
+    client.username_pw_set(username='',password='')
     client.connect_async("192.168.178.133", 1883, 60)
     client.on_connect = on_connect
     client.on_message = on_message
